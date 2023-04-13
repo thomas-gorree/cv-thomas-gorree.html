@@ -1,0 +1,28 @@
+body { 
+    width: 780px ;
+    margin: auto;
+    font-family: 'Source sans Pro', sans-sherif ;
+    font-size: 16px
+}
+
+
+.touteinfo{
+    height: 250px;
+    background-color: black;
+}
+.infosurlemoment{
+    float: right;
+    color: #FFFFFF;
+}
+.photo{
+    float: left;   
+}
+.Competence{
+    height: 70px;
+    text-align: left;
+}
+.Centreinteret{
+    height: 70px;
+    text-align: left;
+}
+
